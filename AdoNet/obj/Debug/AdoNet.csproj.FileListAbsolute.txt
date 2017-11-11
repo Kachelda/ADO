@@ -5,3 +5,10 @@ D:\work\projects\ADO\AdoNet\AdoNet\obj\Debug\AdoNet.csprojResolveAssemblyReferen
 D:\work\projects\ADO\AdoNet\AdoNet\obj\Debug\AdoNet.csproj.CoreCompileInputs.cache
 D:\work\projects\ADO\AdoNet\AdoNet\obj\Debug\AdoNet.exe
 D:\work\projects\ADO\AdoNet\AdoNet\obj\Debug\AdoNet.pdb
+D:\work\projects\ADONET\AdoNet\bin\Debug\AdoNet.exe.config
+D:\work\projects\ADONET\AdoNet\bin\Debug\AdoNet.exe
+D:\work\projects\ADONET\AdoNet\bin\Debug\AdoNet.pdb
+D:\work\projects\ADONET\AdoNet\obj\Debug\AdoNet.csprojResolveAssemblyReference.cache
+D:\work\projects\ADONET\AdoNet\obj\Debug\AdoNet.csproj.CoreCompileInputs.cache
+D:\work\projects\ADONET\AdoNet\obj\Debug\AdoNet.exe
+D:\work\projects\ADONET\AdoNet\obj\Debug\AdoNet.pdb
