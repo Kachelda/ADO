@@ -1,0 +1,7 @@
+D:\work\projects\ADO\AdoNet\AdoNet\bin\Debug\AdoNet.exe.config
+D:\work\projects\ADO\AdoNet\AdoNet\bin\Debug\AdoNet.exe
+D:\work\projects\ADO\AdoNet\AdoNet\bin\Debug\AdoNet.pdb
+D:\work\projects\ADO\AdoNet\AdoNet\obj\Debug\AdoNet.csprojResolveAssemblyReference.cache
+D:\work\projects\ADO\AdoNet\AdoNet\obj\Debug\AdoNet.csproj.CoreCompileInputs.cache
+D:\work\projects\ADO\AdoNet\AdoNet\obj\Debug\AdoNet.exe
+D:\work\projects\ADO\AdoNet\AdoNet\obj\Debug\AdoNet.pdb
